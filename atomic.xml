@@ -7,10 +7,10 @@ layout: nil
   <link href="http://{{ site.domain }}/"/>
   <link href="http://{{ site.domain }}/atom.xml" rel="self"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://forestgump.me/</id>
+  <id>http://acdream.info/</id>
   <author>
-    <name>Liu Peng</name>
-    <email>cow.vangogh@gmail.com</email>
+    <name>ACdream</name>
+    <email>nanaezheng@gmail.com</email>
   </author>
 
   {% for post in site.posts %}
