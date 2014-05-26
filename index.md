@@ -14,14 +14,14 @@ title: ACdream Page
 
 <!--[if !IE]>-->
 <link href='/files/fonts/CherrySwash.css' rel='stylesheet' type='text/css'>
-<h1 style='color: rgb(0, 3, 85);font-family: "Cherry Swash",cursive; font-size: 500%; line-height: 3.0em; margin: 0 0 0 0; text-align: center;'>a_fantasy_bull;;;;;</h1>
+<h1 style='color: rgb(0, 3, 85);font-family: "Cherry Swash",cursive; font-size: 500%; line-height: 3.0em; margin: 0 0 0 0; text-align: center;'>ACdream Page</h1>
 
 <!--<img src="http://arduino.cc/en/pub/skins/arduinoWide_SSO/slider_home/h_04.jpg" alt="feed" style="width: 720px; height: 200px;" >-->
 <!--<![endif]-->
   
 </section>
 <section id="posts">
-  <h1>Wall of New Posts<a href="feed.html"><img src="http://pic.yupoo.com/van9ogh_v/CXOI1D3s/KaYE.png" alt="feed" style="width: 30px" ></a></h1>
+  <h1>Wall of New Posts <img src="http://pic.yupoo.com/van9ogh_v/CXOI1D3s/KaYE.png" alt="feed" style="width: 30px" ></a></h1>
   <ul class="posts">
 {% assign count = 0 %}
 {% for post in site.posts %}
