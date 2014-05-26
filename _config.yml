@@ -1,0 +1,30 @@
+pygments: true
+safe: false # safe设置为true, 禁用插件, false为允许
+lsi: false  # 用于related_posts, 默认情况下github也是禁用这个选项的
+
+# 有了exclude, LICENSE.md、等文件就不会在_site中出现, 这里不使用这个选项
+exclude:
+  .git
+  forest
+#  LICENSE.md
+#  README.md
+#  Rakefile
+#  CNAME
+#  Guardfile#
+title: Forest Gump
+domain: ACdream.github.com
+author:
+  name: ACdream
+  email: admin@acdream.info
+disqus:
+  shortname: van9ogh
+auto: true
+markdown: rdiscount
+permalink: /:year/:month/:title/
+
+# 这个变量将配合markdown语法使用, 在图片处这样写site.img_url
+# 这个对于扩展非常重要
+img_url: "http://i1277.photobucket.com/albums/y489/van9ogh/forestgump"
+
+# 用于标签include_code
+code_dir: "/code"
