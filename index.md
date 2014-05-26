@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "no-section"
-title: Forest Gump
+title: ACdream Page
 ---
 
 <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gloria+Hallelujah|Cabin+Sketch:700"/>-->
@@ -9,7 +9,7 @@ title: Forest Gump
 
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Arvo|Amethysta"/>
-<h1 style='color: rgb(0, 3, 85);font-family: "Arvo"; font-size: 2000%; line-height: 1.0em; margin: 0 0 0 0; text-align: center;'>a_fantasy_bull;;;;;</h1>
+<h1 style='color: rgb(0, 3, 85);font-family: "Arvo"; font-size: 2000%; line-height: 1.0em; margin: 0 0 0 0; text-align: center;'>ACdream Page</h1>
 <![endif]-->
 
 <!--[if !IE]>-->
