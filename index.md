@@ -3,7 +3,7 @@ published: true
 layout: "no-section"
 title: ACdream
 ---
-
+<link rel="shortcut icon" href="http://acdream.info/favicon.ico" mce_href="http://acdream.info/favicon.ico" type="image/x-icon">
 <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gloria+Hallelujah|Cabin+Sketch:700"/>-->
 <section id="about">
 
