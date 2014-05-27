@@ -1,7 +1,7 @@
 ---
 published: true
 layout: "no-section"
-title: ACdream Page
+title: ACdream
 ---
 
 <!--<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Gloria+Hallelujah|Cabin+Sketch:700"/>-->
