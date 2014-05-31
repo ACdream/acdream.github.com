@@ -1,10 +1,9 @@
 ---
 published: "true"
 layout: post
-title: ACsssssssssssssssssssssssssssam原创群赛(12)のBUAA选拔赛-解题报告
+title: ACsssssssss
 ---
 
-{% include JB/setup %}
 
 #Python实例(2)--画幅好画
 
