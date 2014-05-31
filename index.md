@@ -20,7 +20,7 @@ title: ACdream
  
 </section>
 <section id="posts">
-  <h1>Wall of New Posts <img src="http://pic.yupoo.com/van9ogh_v/CXOI1D3s/KaYE.png" alt="feed" style="width: 300px" ></a></h1>
+  <h1>Wall of New Posts <img src="http://pic.yupoo.com/van9ogh_v/CXOI1D3s/KaYE.png" alt="feed" style="width: 30px" ></a></h1>
   <ul class="posts">
 {% assign count = 0 %}
 {% for post in site.posts %}
