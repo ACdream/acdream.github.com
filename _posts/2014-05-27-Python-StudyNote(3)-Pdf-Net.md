@@ -1,10 +1,9 @@
 ---
+published: "true"
 layout: post
-title : Python学习笔记(3)--绘制PDF图表以及网络编程
-description : Python实例(2)，画幅好画。主要是从网络上获取文档之后，进行PDF上的绘制图表。
-category : Python
-tags : [Python,study-note]
+title: ACsssssssssssssssssssssssssssam原创群赛(12)のBUAA选拔赛-解题报告
 ---
+
 {% include JB/setup %}
 
 #Python实例(2)--画幅好画
