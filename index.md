@@ -14,7 +14,7 @@ title: ACdream
 
 <!--[if !IE]>-->
 <link href='/files/fonts/CherrySwash.css' rel='stylesheet' type='text/css'>
-<img src="http://acdream.info/img/logo.png"></img>
+<p style="text-align:center"><img src="http://acdream.info/img/logo.png"></img></p>
 <h1 style='color: rgb(0, 3, 85);font-family: "Cherry Swash",cursive; font-size: 200%; line-height: 3.0em; margin: 0 0 0 0; text-align: center;'>ACdream Page</h1>
 
  
